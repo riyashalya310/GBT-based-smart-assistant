@@ -1,0 +1,6 @@
+openai
+apikey
+pyttsx3
+webbrowser
+SpeechRecognition
+pyAudio
